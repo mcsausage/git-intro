@@ -11,3 +11,6 @@ git commit - m"Message what changed here" // commit the changes <br>
 git push // push them back to the repository, not just the local repository <br>
 
 git pull // getting the changes made in GitHub to our local repository <br>
+
+
+git reset HEAD --hard // resets your working directory to be the same state as your last commit - will delete any changes that show up red when you do "git status" <br>
