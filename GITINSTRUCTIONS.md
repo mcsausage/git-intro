@@ -2,8 +2,8 @@
 
 Commands in terminal
 
-ls // list directories
-cd // change directories
+ls // list directories <br>
+cd // change directories <br>
 
 git status // checks if everything is the same or something's been changed <br>
 git add . // add the changes to the middle part of the process <br>
